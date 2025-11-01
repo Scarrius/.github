@@ -1,9 +1,11 @@
-Welcome to the Krain github.
+# Welcome to Krain AI
 
-[Krain Official Website](https://krain.ai)
+Krain is the infrastructure layer fueling the AI agent economy.
 
-Follow us on X [@krain_ai](https://x.com/krain_ai)
+## 🔗 Official Krain Resources
 
-See official announcements in the [Telegram Announcement Channel](https://t.me/krainofficial)
-
-Join the community in the [Telegram Community Channel](https://t.me/kraincommunity)
+- **Official Website:** [Krain.ai](https://krain.ai)
+- **Follow us on X (Twitter):** [@krain_ai](https://x.com/krain_ai)
+- **Official Announcements:** [Telegram Announcement Channel](https://t.me/krainofficial)
+- **Community Chat:** [Telegram Community Channel](https://t.me/kraincommunity)
+- 
